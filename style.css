@@ -38,3 +38,17 @@ body {
     margin-top: 50px;
     color: #023047;
 }
+
+.city-activities {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
+.activity-image {
+    /* width: 300px;
+    height: 200px; */
+    object-fit: cover;
+    border-radius: 50%;
+}
