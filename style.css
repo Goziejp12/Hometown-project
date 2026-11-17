@@ -17,6 +17,8 @@ body {
     text-align: center;
     margin-top: 0;
     text-shadow: 0 0 20px black;
+    background-color: blue;
+    padding: 10px 15px;
 }
 
 .hero-subtitle {
