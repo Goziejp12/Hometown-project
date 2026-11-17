@@ -42,8 +42,8 @@ body {
 .city-activities {
     display: flex;
     justify-content: space-around;
-    align-items: center;
-    margin-top: 30px;
+    /* align-items: center; */
+    margin: 30px auto 0 auto;
 }
 
 img {
