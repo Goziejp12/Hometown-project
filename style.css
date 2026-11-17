@@ -1,12 +1,11 @@
 body {
     margin: 0;
     padding: 0;
-    /* box-sizing: border-box; */
+    box-sizing: border-box;
 }
 
 .hero {
     margin: 0;
-    /* padding: 15px; */
     background-image: url("images/Awka-city.jpg");
     background-size: cover;
     height: 500px;
