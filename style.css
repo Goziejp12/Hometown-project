@@ -1,0 +1,5 @@
+.hero {
+    background-image: url("images/Awka-city.jpeg");
+    background-size: cover;
+    border: 5px solid green;
+}
