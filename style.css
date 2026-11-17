@@ -39,9 +39,15 @@ body {
     color: #023047;
 }
 
-.city-activities {
+/* .city-activities {
     display: flex;
     justify-content: center;
+} */
+
+.activity {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 img {
