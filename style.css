@@ -41,15 +41,10 @@ body {
 
 .city-activities {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     text-align: center;
 }
-
-/* .activity {
-    display: flex;
-    flex-direction: column;
-} */
 
 .activity img {
     width: 150px;
