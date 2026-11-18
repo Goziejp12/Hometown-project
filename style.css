@@ -55,3 +55,20 @@ body {
     height: 200px;
     border-radius: 50%;
 }
+
+.guide-section {
+    display: flex;
+    background-color: #219ebc;
+    border: 5px solid #023047;
+}
+
+.guide-section img {
+    width: 300px;
+    height: 300px;
+}
+
+.guide-info {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
