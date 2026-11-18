@@ -42,6 +42,7 @@ body {
 .city-activities {
     display: flex;
     justify-content: space-around;
+    align-items: center;
 }
 
 .activity {
