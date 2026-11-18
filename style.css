@@ -39,10 +39,10 @@ body {
     color: #023047;
 }
 
-/* .city-activities {
+.city-activities {
     display: flex;
-    justify-content: center;
-} */
+    justify-content: space-around;
+}
 
 .activity {
     display: flex;
